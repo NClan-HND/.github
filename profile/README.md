@@ -8,5 +8,5 @@ Some projects may not be relevant depending on the language and the unit being l
 
 | Repository | Purpose | Notes !
 |---|---|---|
-| Basketball | Various procedural and object oriented examples of a simple basketball stats program | Contains JUnit testing |
+| Basketball | Various procedural and object oriented examples of a simple basketball stats program | Contains JUnit testing. Contains a simple CLI to complete the program. |
 | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | Contains MSTest testing project |
