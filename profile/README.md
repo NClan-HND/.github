@@ -6,7 +6,8 @@ This organisation has been setup for the purpose of sharing software projects wi
 
 Some projects may not be relevant depending on the language and the unit being looked at. Any code examples are always good to look at.
 
-| Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
-|---|---|---|---|---|---|
-| Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
-| Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
+| Language | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
+|---|---|---|---|---|---|---|
+| Java | Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
+| C# | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
+| Java | Quiz | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
