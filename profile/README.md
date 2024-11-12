@@ -11,3 +11,4 @@ Some projects may not be relevant depending on the language and the unit being l
 | Java | Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
 | C# | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
 | Java | Quiz | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
+| Java | Dictionary | Examples using Hashmap data structure | CLI | JUnit | No | No |
