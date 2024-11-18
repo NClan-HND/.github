@@ -9,7 +9,13 @@ Some projects may not be relevant depending on the language and the unit being l
 | Language | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
 |---|---|---|---|---|---|---|
 | Java | Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
-| C# | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
 | Java | Quiz | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
-| C# | QuizCSharp | Quiz with multiple types of Question | CLI | No | Yes | No |
 | Java | Dictionary | Examples using Hashmap data structure | CLI | JUnit | No | No |
+| Java | ClassTypes | Examples of different class usages | GUI | No | Yes | No |
+
+<br>
+
+| Language | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
+|---|---|---|---|---|---|---|
+| C# | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
+| C# | QuizCSharp | Quiz with multiple types of Question | CLI | No | Yes | No |
