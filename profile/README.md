@@ -19,4 +19,4 @@ Some projects may not be relevant depending on the language and the unit being l
 |---|---|---|---|---|---|---|
 | C# | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
 | C# | QuizCSharp | Quiz with multiple types of Question | CLI | No | Yes | No |
-| C# | ClassTypes | Examples of different class usages | WPF | No | Yes | Yes |
+| C# | ClassTypesCSharp | Examples of different class usages | WPF | No | Yes | Yes |
