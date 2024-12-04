@@ -10,8 +10,8 @@ Some projects may not be relevant depending on the language and the unit being l
 |---|---|---|---|---|---|---|
 | Java | Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
 | Java | Quiz | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
-| Java | Library | Examples using Hashmap data structure | CLI | JUnit | No | No |
 | Java | ClassTypes | Examples of different class usages | Swing | No | Yes | Yes |
+| Java | Library | Examples using Hashmap data structure | CLI | JUnit | No | No |
 
 <br>
 
