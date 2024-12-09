@@ -21,3 +21,4 @@ Some projects may not be relevant depending on the language and the unit being l
 | C# | QuizCSharp | Quiz with multiple types of Question | CLI | No | Yes | No |
 | C# | ClassTypesCSharp | Examples of different class usages | WPF | No | Yes | Yes |
 | C# | LibraryCSharp | Examples of Dictionary data structure, IEnumerator and IEnumerable | CLI | MSTest | No | Yes |
+| C# | SingletonCSharp | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
