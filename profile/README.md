@@ -25,3 +25,5 @@ Some projects may not be relevant depending on the language and the unit being l
 | C# | SimpleBank | Bank with multiple type of Account (similar to Quiz) | | MSTest| Yes | Yes |
 | C# | SingletonCSharp | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
 | C# | MultiPanel | Examples of various WPF component usage | WPF | No | No | No |
+| C# | CarExtras | Component and event demo | WPF | No | No | Yes (3rd party |
+
