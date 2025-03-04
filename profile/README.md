@@ -34,4 +34,6 @@ understand and update other's code.
 | SingletonCSharp | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
 | MultiPanel | Examples of various WPF component usage | WPF | No | No | No |
 | CarExtras | Component and event demo | WPF | No | No | Yes (3rd party |
+| BitsAndPiecesCSharp | Demo of loading images | WPF | No | No | No |
+| BitsAndPiecesCSharpMVVM | Demo of loading images using MVVM style | WPF | No | No | No |
 
