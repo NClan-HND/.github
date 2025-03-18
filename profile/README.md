@@ -14,7 +14,7 @@ understand and update other's code.
 | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
 |---|---|---|---|---|---|
 | Basketball | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
-| Quiz | [Quiz with multiple types of Question](https://github.com/NClan-HND/QuizJava) | CLI | JUnit | Yes | No |
+| [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
 | ClassTypes | Examples of different class usages | Swing | No | Yes | Yes |
 | Library | Examples using Hashmap data structure | CLI | JUnit | No | No |
 | Singleton | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
@@ -27,11 +27,19 @@ understand and update other's code.
 | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
 |---|---|---|---|---|---|
 | Basketball CSharp | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
-| QuizCSharp | [Quiz with multiple types of Question](https://github.com/NClan-HND/QuizCSharp) | CLI | No | Yes | No |
+| [QuizCSharp](https://github.com/NClan-HND/QuizCSharp) | Quiz with multiple types of Question | CLI | No | Yes | No |
 | ClassTypesCSharp | Examples of different class usages | WPF | No | Yes | Yes |
 | LibraryCSharp | Examples of Dictionary data structure, IEnumerator and IEnumerable | CLI | MSTest | No | Yes |
 | SimpleBank | Bank with multiple type of Account (similar to Quiz) | | MSTest| Yes | Yes |
 | SingletonCSharp | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
+
+<br>
+
+![image](https://github.com/user-attachments/assets/e4930e53-815c-4eea-94e5-a7db15ca0a5f)
+
+| Repository | Purpose | UI | Unit testing | Inhertiance | Interfaces |
+|---|---|---|---|---|---|
+| [WPFExamples](https://github.com/NClan-HND/WPFExamples) | Some examples see the Readme | No | No | No | No |
 | MultiPanel | Examples of various WPF component usage | WPF | No | No | No |
 | CarExtras | Component and event demo | WPF | No | No | Yes (3rd party |
 | BitsAndPiecesCSharp | Demo of loading images | WPF | No | No | No |
