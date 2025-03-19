@@ -39,7 +39,7 @@ understand and update other's code.
 
 | Repository | Purpose | UI | Unit testing | Inhertiance | Interfaces |
 |---|---|---|---|---|---|
-| [WPFExamples](https://github.com/NClan-HND/WPFExamples) | Some examples see the Readme | No | No | No | No |
+| [WPFExamples](https://github.com/NClan-HND/WPFExamples) | Some examples see the Readme | WPF | No | No | No |
 | MultiPanel | Examples of various WPF component usage | WPF | No | No | No |
 | CarExtras | Component and event demo | WPF | No | No | Yes (3rd party |
 | BitsAndPiecesCSharp | Demo of loading images | WPF | No | No | No |
