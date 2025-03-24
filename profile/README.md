@@ -6,8 +6,10 @@ This organisation has been setup for the purpose of sharing software projects. S
 Use the projects to see how different elements and constructs can be created and used. You can always learn something be looking at existing code, as a professional you will need to look at, 
 understand and update other's code. 
 
-## Contents
+| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d) | Remember if you clone any of these repos then any 'push' will be targetted here. <br>If you want to use the code in a repo of your own either,<br>- download the zip containing the code or<br>- fork the repository<br><br>or less preferable, clone and then manually update local git settings to point to a new remote repo.| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d)
+| :---: | :------- | :----------- |
 
+## Contents
 
 ![java-logo](https://github.com/user-attachments/assets/79e1eb7b-c2e4-475a-9c4d-1c8208cee2b5) The projects uploaded here use JDK 22, you may need to update the project or your computer to get a clean build.
 
