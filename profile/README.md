@@ -19,6 +19,7 @@ understand and update other's code.
 | [ClassTypes](https://github.com/NClan-HND/ClassTypes) | Examples of different class usages | Swing | No | Yes | Yes |
 | [Library](https://github.com/NClan-HND/Library) | Examples using Hashmap data structure | CLI | JUnit | No | No |
 | [MVCuserinterface](https://github.com/NClan-HND/MVCuserinterface) | App uses MVC architecture pattern | Swing | No | No | No |
+| [MySQL DB demo](https://github.com/NClan-HND/JavaMySQLDemo) | Code to connect to a local MySQL database | No | No | No |
 | [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
 | [Singleton](https://github.com/NClan-HND/Singleton) | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
 
