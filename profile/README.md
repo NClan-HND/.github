@@ -33,6 +33,7 @@ understand and update other's code.
 | [Basketball CSharp](https://github.com/NClan-HND/Basketball-CSharp) | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
 | [ClassTypesCSharp](https://github.com/NClan-HND/ClassTypesCSharp) | Examples of different class usages | WPF | No | Yes | Yes |
 | [LibraryCSharp](https://github.com/NClan-HND/LibraryCSharp) | Examples of Dictionary data structure, IEnumerator and IEnumerable | CLI | MSTest | No | Yes|
+| [MySQL DB demo](https://github.com/NClan-HND/CSharpMySQLDemo) | Code to connect to a local MySQL database | No | No | No |
 | [PassByRef](https://github.com/NClan-HND/PassByValRef) | Example of passing by value and reference | CLI | No | No | No|
 | [QuizCSharp](https://github.com/NClan-HND/QuizCSharp) | Quiz with multiple types of Question | CLI | No | Yes | No |
 | [SimpleBank](https://github.com/NClan-HND/SimpleBank) | Bank with multiple type of Account (similar to Quiz) | | MSTest| Yes | Yes |
