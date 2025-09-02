@@ -6,7 +6,7 @@ This organisation has been setup for the purpose of sharing software projects. S
 Use the projects to see how different elements and constructs can be created and used. You can always learn something be looking at existing code, as a professional you will need to look at, 
 understand and update other's code. 
 
-| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d) | Remember if you clone any of these repos then any 'push' will be targetted here. <br>If you want to use the code in a repo of your own either,<br>- download the zip containing the code or<br>- fork the repository<br><br>or less preferable, clone and then manually update local git settings to point to a new remote repo.| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d)
+| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d) | If you clone any of these repos then any 'push' will attempt to push here but you have read only access so it will fail. <br>If you want to experiment with the code it is prefereable to either,<br>- download the zip containing the code or<br>- fork the repository<br>| ![image](https://github.com/user-attachments/assets/ebdc6664-2ed2-46d1-acf1-f7a2acc99a5d)
 | :---: | :------- | :----------- |
 
 ## Contents
