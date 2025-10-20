@@ -24,6 +24,8 @@ understand and update other's code.
 | [Shapes](https://github.com/NClan-HND/Shapes) | Example of class structure. Uses Maven. GitHub Action | CLI | JUnit | Yes | Yes |
 | [Singleton](https://github.com/NClan-HND/Singleton) | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
 
+### Scenarios
+[Retro Computer Game Shop](https://github.com/cyberkeeper/Retrogameshop) Sample code for the Retro Computer Game Shop scenario. Includes JUnit5 testing.
 
 <br>
 
