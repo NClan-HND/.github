@@ -25,7 +25,7 @@ understand and update other's code.
 | [Singleton](https://github.com/NClan-HND/Singleton) | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
 
 ### Scenarios
-[Retro Computer Game Shop](https://github.com/cyberkeeper/Retrogameshop) Sample code for the Retro Computer Game Shop scenario. Includes JUnit5 testing. Uses Maven build process. Includes POM dependencies to genereate website which includes a Surefire test report.
+[Retro Computer Game Shop](https://github.com/NClan-HND/Retrogameshop) Sample code for the Retro Computer Game Shop scenario. Includes JUnit5 testing. Uses Maven build process. Includes POM dependencies to genereate website which includes a Surefire test report.
 
 <br>
 
