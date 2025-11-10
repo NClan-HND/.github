@@ -17,7 +17,7 @@ understand and update other's code.
 |---|---|---|---|---|---|
 | [Basketball](https://github.com/NClan-HND/Basketball) | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
 | [ClassTypes](https://github.com/NClan-HND/ClassTypes) | Examples of different class usages | Swing | No | Yes | Yes |
-| [Library](https://github.com/NClan-HND/Library) | Various examples of using the Hashmap (Dictionary) data structure | CLI | JUnit | No | No |
+| [HashMap](https://github.com/NClan-HND/Library) | Various examples of using the Hashmap (Dictionary) data structure | CLI | JUnit | No | No |
 | [MVCuserinterface](https://github.com/NClan-HND/MVCuserinterface) | App uses MVC architecture pattern | Swing | No | No | No |
 | [MySQL DB demo](https://github.com/NClan-HND/JavaMySQLDemo) | Code to connect to a local MySQL database | No | No | No |
 | [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
