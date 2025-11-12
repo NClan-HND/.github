@@ -11,23 +11,20 @@ understand and update other's code.
 
 ## Contents
 
-![java-logo](https://github.com/user-attachments/assets/79e1eb7b-c2e4-475a-9c4d-1c8208cee2b5) The projects uploaded here use JDK 22, you may need to update the project or your computer to get a clean build.
+![java-logo](https://github.com/user-attachments/assets/79e1eb7b-c2e4-475a-9c4d-1c8208cee2b5) The projects uploaded here use a mixture of JDK22 and JDK24. Don't install JDK22 if you don't have it already, update the project to JDK24 instead. You may need to restart IntelliJ afterwards to remove any warning messages about JDK not found.
 
-| Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
-|---|---|---|---|---|---|
-| [Basketball](https://github.com/NClan-HND/Basketball) | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit | No | Yes |
-| [ClassTypes](https://github.com/NClan-HND/ClassTypes) | Examples of different class usages | Swing | No | Yes | Yes |
-| [HashMap](https://github.com/NClan-HND/HashMap) | Various examples of using the Hashmap (Dictionary) data structure | CLI | JUnit | No | No |
-| [MVCuserinterface](https://github.com/NClan-HND/MVCuserinterface) | App uses MVC architecture pattern | Swing | No | No | No |
-| [MySQL DB demo](https://github.com/NClan-HND/JavaMySQLDemo) | Code to connect to a local MySQL database | No | No | No |
-| [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | Yes | No |
-| [Shapes](https://github.com/NClan-HND/Shapes) | Example of class structure. Uses Maven. GitHub Action | CLI | JUnit | Yes | Yes |
-| [Singleton](https://github.com/NClan-HND/Singleton) | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
-
-### Scenarios
-[Retro Computer Game Shop](https://github.com/NClan-HND/Retrogameshop) Sample code for the Retro Computer Game Shop scenario. Includes JUnit5 testing. Uses Maven build process. Includes POM dependencies to genereate website which includes a Surefire test report.
-
-[Simple Library](https://github.com/NClan-HND/SimpleLibrary.git). Sample code for the Simple Library scenario. Includes JUnit5 testing. Demonstrates Singleton design pattern.
+| Repository | Purpose | UI | Unit testing | Inheritance | Interfaces | Build |
+|---|---|---|---|:-:|:-:|:-:|
+| [Basketball](https://github.com/NClan-HND/Basketball) | Various procedural and object oriented examples of a simple basketball stats program | CLI | JUnit |  | * | |
+| [ClassTypes](https://github.com/NClan-HND/ClassTypes) | Examples of different class usages | Swing |  | * | * | |
+| [HashMap](https://github.com/NClan-HND/HashMap) | Various examples of using the Hashmap (Dictionary) data structure | CLI | JUnit |  |  | |
+| [MVCuserinterface](https://github.com/NClan-HND/MVCuserinterface) | App uses MVC architecture pattern | Swing |  |  |  | |
+| [MySQL DB demo](https://github.com/NClan-HND/JavaMySQLDemo) | Code to connect to a local MySQL database |  |  |  | |
+| [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | * |  | |
+| [Retro Computer Game Shop](https://github.com/NClan-HND/Retrogameshop) | Sample code for the Retro Computer Game Shop scenario. Uses Maven | CLI | JUnit & Surefire | * |  | Maven |
+| [Shapes](https://github.com/NClan-HND/Shapes) | Example of class structure. Uses Maven. GitHub Action | CLI | JUnit | * | * | Maven |
+| [Simple Library](https://github.com/NClan-HND/SimpleLibrary.git). | Sample code for the Simple Library scenario. Uses Singletons. | CLI | JUnit | * |  | |
+| [Singleton](https://github.com/NClan-HND/Singleton) | The library example modified to use the Singleton design pattern | CLI |  |  | * | |
 
 <br>
 
