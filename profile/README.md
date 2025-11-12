@@ -26,6 +26,7 @@ understand and update other's code.
 
 ### Scenarios
 [Retro Computer Game Shop](https://github.com/NClan-HND/Retrogameshop) Sample code for the Retro Computer Game Shop scenario. Includes JUnit5 testing. Uses Maven build process. Includes POM dependencies to genereate website which includes a Surefire test report.
+[Simple Library](https://github.com/NClan-HND/SimpleLibrary.git). Sample code for the Simple Library scenario. Includes JUnit5 testing. Demonstrates Singleton design pattern.
 
 <br>
 
