@@ -31,15 +31,15 @@ understand and update other's code.
 ![csharp-logo](https://github.com/user-attachments/assets/cdbc216e-8e15-46d7-9753-218ace34f6fd) The projects use .Net8 which is the current (2025) LTS version. 
 
 | Repository | Purpose | UI | Unit testing | Inheritance | Interfaces |
-|---|---|---|---|---|---|
-| [Basketball CSharp](https://github.com/NClan-HND/Basketball-CSharp) | Basically the C# version of the Java basketball program but only the OOP version | | MSTest | No | Yes |
-| [ClassTypesCSharp](https://github.com/NClan-HND/ClassTypesCSharp) | Examples of different class usages | WPF | No | Yes | Yes |
-| [LibraryCSharp](https://github.com/NClan-HND/LibraryCSharp) | Examples of Dictionary data structure, IEnumerator and IEnumerable | CLI | MSTest | No | Yes|
-| [MySQL DB demo](https://github.com/NClan-HND/CSharpMySQLDemo) | Code to connect to a local MySQL database | No | No | No |
-| [PassByRef](https://github.com/NClan-HND/PassByValRef) | Example of passing by value and reference | CLI | No | No | No|
-| [QuizCSharp](https://github.com/NClan-HND/QuizCSharp) | Quiz with multiple types of Question | CLI | No | Yes | No |
-| [SimpleBank](https://github.com/NClan-HND/SimpleBank) | Bank with multiple type of Account (similar to Quiz) | | MSTest| Yes | Yes |
-| [SingletonCSharp](https://github.com/NClan-HND/SingletonCSharp) | The library example modified to use the Singleton design pattern | CLI | No | No | Yes |
+|---|---|---|---|:-:|:-:|
+| [Basketball CSharp](https://github.com/NClan-HND/Basketball-CSharp) | Basically the C# version of the Java basketball program but only the OOP version | | MSTest |  | * |
+| [ClassTypesCSharp](https://github.com/NClan-HND/ClassTypesCSharp) | Examples of different class usages | WPF |  | * | * |
+| [LibraryCSharp](https://github.com/NClan-HND/LibraryCSharp) | Examples of Dictionary data structure, IEnumerator and IEnumerable | CLI | MSTest |  | *|
+| [MySQL DB demo](https://github.com/NClan-HND/CSharpMySQLDemo) | Code to connect to a local MySQL database |  |  |  |
+| [PassByRef](https://github.com/NClan-HND/PassByValRef) | Example of passing by value and reference | CLI |  |  | |
+| [QuizCSharp](https://github.com/NClan-HND/QuizCSharp) | Quiz with multiple types of Question | CLI |  | * |  |
+| [SimpleBank](https://github.com/NClan-HND/SimpleBank) | Bank with multiple type of Account (similar to Quiz) | | MSTest| * | * |
+| [SingletonCSharp](https://github.com/NClan-HND/SingletonCSharp) | The library example modified to use the Singleton design pattern | CLI | |  | * |
 
 <br>
 
