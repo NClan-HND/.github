@@ -21,6 +21,7 @@ understand and update other's code.
 | [HashMap](https://github.com/NClan-HND/HashMap) | Various examples of using the Hashmap (Dictionary) data structure | CLI | JUnit |  |  | |
 | [MVCuserinterface](https://github.com/NClan-HND/MVCuserinterface) | App uses MVC architecture pattern | Swing |  |  |  | |
 | [MySQL DB demo](https://github.com/NClan-HND/JavaMySQLDemo) | Code to connect to a local MySQL database |  |  |  | |
+| [Persistent data](https://github.com/NClan-HND/PersistentFormatDemo.git) | Examples of csv, JSON and database data loading | | | | * | Maven |
 | [Quiz](https://github.com/NClan-HND/QuizJava) | Quiz with multiple types of Question | CLI | JUnit | * |  | |
 | [Retro Computer Game Shop](https://github.com/NClan-HND/Retrogameshop) | Sample code for the Retro Computer Game Shop scenario. Uses Maven | CLI | JUnit & Surefire | * |  | Maven |
 | [Shapes](https://github.com/NClan-HND/Shapes) | Example of class structure. Uses Maven. GitHub Action | CLI | JUnit | * | * | Maven |
